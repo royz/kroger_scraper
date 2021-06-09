@@ -1,0 +1,9 @@
+.idea
+aisle_data/*
+site_cache/*
+input/*
+*.csv
+cookies.txt
+*.zip
+user.txt
+*.json
